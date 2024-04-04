@@ -146,36 +146,14 @@ Contributions to the Loan Status Prediction project are welcome! Here's how you 
 3. **Clone Your Fork:**
    Clone your forked repository to your local machine.
    ```bash
-   git clone https://github.com/YourUsername/Loan_Status_Prediction.git
+   git clone https://github.com/sonuprasad23/Loan_Status_Prediction.git
    cd Loan_Status_Prediction
    ```
 
-4. **Create a Branch:**
-   Create a new branch for your contribution.
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-
-5. **Make Changes:**
-   Make your desired changes, add new features, or fix bugs. Ensure your changes align with the project's coding style and guidelines.
-
-6. **Commit Changes:**
-   Commit your changes and provide a descriptive commit message.
-   ```bash
-   git add .
-   git commit -m "Your descriptive commit message"
-   ```
-
-7. **Push to Your Fork:**
-   Push your changes to your fork on GitHub.
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
-8. **Open a Pull Request (PR):**
+4. **Open a Pull Request (PR):**
    Open a pull request from your branch to the `main` branch of the original repository. Provide a clear title and description of your changes.
 
-9. **Discuss and Review:**
+5. **Discuss and Review:**
    Engage in discussions, address feedback, and collaborate with maintainers to ensure the success of your contribution.
 
 Thank you for contributing to the Loan Status Prediction project! Your efforts make this project better for everyone.
