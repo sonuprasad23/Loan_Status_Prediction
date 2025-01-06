@@ -177,7 +177,7 @@ Feel free to customize the content and formatting based on your project's specif
 For inquiries, collaborations, or discussions related to the Loan Status Prediction project, feel free to reach out:
 
 - **Your Name**
-  - Email: [sonubab2222@skiff.com](mailto:your_email@email.com)
+  - Email: [sonuprasadmahato31@gmail.com](mailto:your_email@email.com)
   - GitHub: [https://github.com/sonuprasad23](https://github.com/YourUsername)
   - LinkedIn: [https://www.linkedin.com/in/sonu-prasad413133/](https://www.linkedin.com/in/your-linkedin-profile/)
 
